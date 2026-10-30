@@ -1,5 +1,9 @@
 # ESP32-Based NTC Thermometer
-
+<p align="center">
+  <img src="./ESP32-NTC-Thermometer2.jpg"
+       alt="ESP32-Based NTC Thermometer"
+       width="850">
+</p>
 <p align="center">
   <img src="./ESP32-NTC-Thermometer1.jpg"
        alt="ESP32-Based NTC Thermometer"
