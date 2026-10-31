@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./3D.jpg"
        alt="3D view of ESP32-Based NTC Thermometer"
-       width="850">
+       width="400">
 </p>
 <p align="center">
   <img src="./ESP32-NTC-Thermometer2.jpg"
